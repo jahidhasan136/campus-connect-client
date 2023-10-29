@@ -13,7 +13,6 @@
 * Home Pages included
 * Review included
 * 404 pages included
-* And much more...
 
 ## Pages:
 
