@@ -1,6 +1,6 @@
 # Campus Connect | College Booking React Template
 
-<h3>Live Website: https://campus-connects.web.app/</h3>
+<h3>Live Website: https://campus-connect-1fc4c.web.app/</h3>
 
 ## Description:
 <p>Campus Connect is a college booking platform designed to the process of finding the best college for students. With its comprehensive database, Campus Connect revolutionizes the college search experience.</p>
